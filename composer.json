@@ -1,0 +1,15 @@
+{
+    "name": "shirne/alipay-sdk",
+    "description": "AlipaySDK based on Alipay official sdk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shirne",
+            "email": "shirne@126.com"
+        }
+    ],
+    "require": {
+        "psr/log": "^1.1"
+    }
+}
